@@ -8,25 +8,6 @@ crafting, coding & creating with intent.
 
 ---
 
-## 💼 Experience  
-
-**Frontend Developer Intern – BinaryGeckos**  
-📍 Rajkot, India | *May 2024 – June 2024*  
-- Built **3+ responsive web pages** using HTML, CSS, JavaScript, and React.js.  
-- Developed dynamic and responsive websites for real-world client requirements.  
-
-**Operation Intern – IScribblers**  
-🌍 Remote | *Nov 2024 – Dec 2024*  
-- Customized **5+ WordPress blog websites** with themes and plugins.  
-- Improved page readability by optimizing content layout and styling.  
-
-**Backend Developer Intern – TSS Consultancy Pvt. Ltd.**  
-📍 Rajkot, India | *Jan 2025 – April 2025*  
-- Worked with **Java, MySQL, and Spring Boot** in IntelliJ IDEA.  
-- Scraped and validated structured data from government sources using **JSOUP**.  
-
----
-
 ## 🏆 Featured Projects  
 
 **Cosmetic Website**  

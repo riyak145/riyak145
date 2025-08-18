@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Riya Kanani</h1>
-One brain, many hats —
+One brain, many hats — <br>
 crafting, coding & creating with intent.  
 
 ## 🚀 About Me  

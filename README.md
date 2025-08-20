@@ -24,7 +24,7 @@ crafting, coding & creating with intent.
 
 ## 🛠️ Programming Skills  
 
-**Languages:** Java, JavaScript, C#  
+**Languages:** PHP,Java, JavaScript, C#  
 **Frontend:** ReactJS, HTML5, CSS, Bootstrap, TailwindCSS  
 **Backend:** Node.js  
 **Databases:** MySQL, MongoDB Atlas  

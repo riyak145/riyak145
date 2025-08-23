@@ -24,12 +24,6 @@ crafting, coding & creating with intent.
 
 ## 🛠️ Programming Skills  
 
-**Languages:** PHP,Java, JavaScript, C#  
-**Frontend:** ReactJS, HTML5, CSS, Bootstrap, TailwindCSS  
-**Backend:** Node.js  
-**Databases:** MySQL, MongoDB Atlas  
-**Tools:** Git, GitHub, VS Code  
-
 ### 🖥️ Languages  
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/php.png"/>
@@ -63,6 +57,7 @@ crafting, coding & creating with intent.
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA"/>
 </p>
 
 ---

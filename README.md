@@ -61,8 +61,9 @@ crafting, coding & creating with intent.
 </p>
 
 ---
+Thanks for Visitng!
 ## ![Profile views](https://komarev.com/ghpvc/?username=riyak145&label=Profile%20views&color=0e75b6&style=flat)
-## ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
 
 
 ✨ *“Code, Learn, Build, Repeat!”* ✨  

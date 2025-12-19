@@ -8,7 +8,7 @@ crafting, coding & creating with intent.
 
 ---
 ## 🌍 Open Source  
-- Contributor to Microsoft’s **Web-Dev-For-Beginners**, with merged documentation improvements.
+- Contributor to **Microsoft’s** Web-Dev-For-Beginners, with merged documentation improvements.
 ---
 
 ## 🏆 Featured Projects  

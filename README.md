@@ -4,8 +4,11 @@ crafting, coding & creating with intent.
 
 ## 🚀 About Me  
 - 🧑‍💻 BTech Computer Engineering student, aspiring full-stack developer.   
-- ✨ Enthusiastic about collaborating, learning, and contributing to impactful projects.  
+- ✨ Enthusiastic about collaborating, learning, and contributing to impactful projects, including open-source.  
 
+---
+## 🌍 Open Source  
+- Contributor to Microsoft’s **Web-Dev-For-Beginners**, with merged documentation improvements.
 ---
 
 ## 🏆 Featured Projects  

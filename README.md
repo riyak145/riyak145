@@ -64,8 +64,6 @@ crafting, coding & creating with intent.
 </p>
 
 ---
-Thanks for Visiting!
-## ![Profile views](https://komarev.com/ghpvc/?username=riyak145&label=Profile%20views&color=0e75b6&style=flat)
 
 
 

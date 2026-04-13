@@ -14,18 +14,18 @@ crafting, coding & creating with intent.
 ## 🏆 Featured Projects  
 
 **Joes Robot Shop**
--Developed a full-stack e-commerce platform using ASP.NET Core and Angular with role-based authentication 
-(Admin/User) powered by ASP.NET Identity and JWT. 
--Implemented product management (CRUD), catalog, cart, checkout, and order history features with secure login 
-and token expiry configuration. 
+- Developed a full-stack e-commerce platform using ASP.NET Core and Angular with role-based authentication 
+  (Admin/User) powered by ASP.NET Identity and JWT. 
+- Implemented product management (CRUD), catalog, cart, checkout, and order history features with secure login 
+  and token expiry configuration. 
 
 **Travel and Tourist Guide Website**  
 - Full-stack travel guide platform using **React.js, Node.js, MongoDB**.  
 - Integrated login/registration and dynamic destination data with seamless routing.   
 
 **Nike Website**  
--Created a modern, responsive e-commerce site using React.js and CSS Modules. 
--Included product listings, filtering features, and reusable component architecture.  
+- Created a modern, responsive e-commerce site using React.js and CSS Modules. 
+- Included product listings, filtering features, and reusable component architecture.  
 
 ## 🛠️ Programming Skills  
 

@@ -7,8 +7,9 @@ crafting, coding & creating with intent.
 - ✨ Enthusiastic about collaborating, learning, and contributing to impactful projects, including open-source.  
 
 ---
-## 🌍 Open Source  
+## 🌍 Open Source (Merged)
 - Contributor to **Microsoft’s** Web-Dev-For-Beginners, with merged documentation improvements.
+- Contributed to **WordPress** Documentation project by removing the “Edit Site” option from the admin toolbar, improving editor workflow and preventing unintended template edits.
 ---
 
 ## 🏆 Featured Projects  
